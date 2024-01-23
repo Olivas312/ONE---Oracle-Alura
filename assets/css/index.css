@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    width: 30%;
+    gap: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+main{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+}
+#txt404{
+    width: 25rem;
+    height: 35rem;
+    border: 1px solid gray;
+    border-radius: 32px;
+    box-shadow: 5px 5px 5px 5px 5px gray;
+    padding: 2rem;
+}
