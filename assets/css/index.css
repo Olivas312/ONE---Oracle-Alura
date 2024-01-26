@@ -45,7 +45,7 @@ button{
 #decodificador{
     border-radius: 5px;
 }
-#resposta{
+#msg{
     width: 25rem;
     height: 37rem;
     background-color: white;
