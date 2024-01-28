@@ -28,8 +28,8 @@ main{
     padding: 2rem;
 }
 button{
-    width: 22rem;
-    height: 4rem;
+    width: 220px;
+    height: 40px;
     border-radius: 16px;
     margin: 5px;
     cursor: pointer;
