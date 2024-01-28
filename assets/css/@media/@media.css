@@ -1,0 +1,37 @@
+/* Para Tablet */
+@media screen and (min-width: 768) {
+    body{
+        display: flex;
+        flex-flow: column wrap;
+        overflow: hidden;
+    };
+    header,main,form,aside{
+        width: 100%;
+    }
+    form,aside{
+        height: 50%;
+    }
+    #txt404{
+        width: 12.5px;
+        height: 18.5px;
+    };
+
+};
+/* Para mobile */
+@media screen and (min-width:375px) and (max-width:767px){
+    body{
+        display: flex;
+        flex-flow: column wrap;
+        overflow: hidden;
+    };
+    header,main,form,aside{
+        width: 100%;
+    }
+    form,aside{
+        height: 50%;
+    }
+    #txt404{
+        width: 6.25px;
+        height: 9.25px;
+    };
+}
